@@ -1,4 +1,6 @@
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import viTranslations from '../locales/vi/common.json';
+import enTranslations from '../locales/en/common.json';
 
 type Language = 'vi' | 'en';
 
@@ -14,23 +16,18 @@ interface I18nContextType {
 
 const I18nContext = createContext<I18nContextType | undefined>(undefined);
 
+const translationsMap: Record<Language, Translations> = {
+    vi: viTranslations,
+    en: enTranslations
+};
+
 export const I18nProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
     const [language, setLanguage] = useState<Language>('vi');
-    const [translations, setTranslations] = useState<Translations>({});
+    const [translations, setTranslations] = useState<Translations>(viTranslations);
 
     useEffect(() => {
         // Load translations based on current language
-        const loadTranslations = async () => {
-            try {
-                const response = await fetch(`/locales/${language}/common.json`);
-                const data = await response.json();
-                setTranslations(data);
-            } catch (error) {
-                console.error('Failed to load translations:', error);
-            }
-        };
-
-        loadTranslations();
+        setTranslations(translationsMap[language]);
     }, [language]);
 
     // Translation function - supports nested keys like "header.nav.services"
