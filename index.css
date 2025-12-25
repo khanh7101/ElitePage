@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Lato:wght@300;400;700&family=Playball&family=Great+Vibes&family=Allura&display=swap');
+
+@theme {
+  /* Custom Colors */
+  --color-primary: #D99840;
+  --color-primary-hover: #C28533;
+  --color-background-light: #FFFDF5;
+  --color-surface-light: #FFFFFF;
+  --color-text-light: #44403C;
+
+  /* Custom Fonts */
+  --font-display: 'Playfair Display', serif;
+  --font-body: 'Lato', sans-serif;
+  --font-script: 'Playball', cursive;
+  --font-script2: 'Great Vibes', cursive;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+body {
+  min-height: 100vh;
+}
+
+html {
+  scroll-behavior: smooth;
+}

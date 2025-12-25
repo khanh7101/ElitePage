@@ -1,0 +1,218 @@
+{
+    "header": {
+        "logo": "Ellie Wedding",
+        "nav": {
+            "services": "Services",
+            "stories": "Love Stories",
+            "packages": "Packages"
+        },
+        "contact": "Contact Us"
+    },
+    "hero": {
+        "title": "Turn Your Special Day Into Perfection",
+        "subtitle": "Ensure every detail of your fairytale wedding is perfect.",
+        "cta": "Book Now"
+    },
+    "intro": {
+        "title": "Ensure every detail of your fairytale wedding is perfect.",
+        "paragraph1": "Elite Wedding Planner specializes in designing, planning, and organizing complete wedding packages. We are the trusted choice for busy couples who want a professional team to manage the entire process on their behalf.",
+        "paragraph2": "With a commitment to respecting client opinions, optimizing budgets, and ensuring quality service, Elite accompanies you to create a perfect, complete wedding that bears your personal signature.",
+        "cta": "Book Now"
+    },
+    "team": {
+        "title": "Meet the Ellie Team",
+        "subtitle": "Premier wedding planning service",
+        "description1": "We provide premium wedding planning services.",
+        "description2": "Ellie specializes in creating beautiful, memorable weddings that reflect your unique style and personality. Let us turn your wedding dream into reality.",
+        "cta": "Contact Us"
+    },
+    "services": {
+        "title": "Our Services",
+        "items": [
+            {
+                "title": "Photographers",
+                "subtitle": "Find your look"
+            },
+            {
+                "title": "Planning",
+                "subtitle": "Perfect details"
+            },
+            {
+                "title": "Decorations",
+                "subtitle": "Style your venue"
+            }
+        ],
+        "cta": "Book Now"
+    },
+    "testimonials": {
+        "title": "Love Stories",
+        "subtitle": "Hear from couples who trusted us",
+        "items": [
+            {
+                "names": "Sarah & James",
+                "content": "\"Working with Ellie Wedding Planner was the best decision we made. They transformed our vision into reality and handled every detail flawlessly.\""
+            },
+            {
+                "names": "Rosie & Ravi",
+                "content": "\"Thank you team for supporting the bride and groom so enthusiastically. We were very lucky to meet you. The party went smoothly and everything was taken care of very well.\""
+            },
+            {
+                "names": "A-Chau & Bradley",
+                "content": "\"We just did it quickly on the plane now actually - we sent a bit more than what you asked - the rest is for you girls as a little extra to say thank you so much for the support. We had an amazing wedding thank to you girls 🥰🥰 we hope you continue to support more couples on their special day!!\""
+            }
+        ]
+    },
+    "packages": {
+        "title": "Wedding Packages",
+        "full": {
+            "name": "Full Wedding Package",
+            "description": "For couples who want end-to-end support.",
+            "beforeWedding": {
+                "title": "Before Wedding Day",
+                "items": [
+                    "Consultation, detailed planning on decoration style, program suitable for budget.",
+                    "Survey venues together with the couple.",
+                    "Create detailed program script.",
+                    "Coordinate delivery schedules with vendors.",
+                    "Design, print invitations and necessary decoration details."
+                ]
+            },
+            "onWeddingDay": {
+                "title": "On Wedding Day",
+                "items": [
+                    "Work directly with restaurants, hotels.",
+                    "Welcome guests, guide according to family requirements.",
+                    "Supervise sound, lighting, program timeline.",
+                    "Coordinate MC, band, makeup, decoration...",
+                    "Work with filming, photography team and handle logistics.",
+                    "Flexibly handle all arising issues."
+                ]
+            },
+            "afterWedding": {
+                "title": "After Wedding Day",
+                "items": [
+                    "Work with filming, photography team for final edits.",
+                    "Support resolving arising issues (if any).",
+                    "Acceptance and payment of remaining amounts with vendors."
+                ]
+            },
+            "cta": "Choose Plan"
+        },
+        "coordination": {
+            "name": "Coordination Package",
+            "description": "Suitable for couples who have planned in detail.",
+            "scope": {
+                "title": "Scope of Work",
+                "items": [
+                    "Receive and review the couple's entire plan.",
+                    "Create detailed timeline for wedding day.",
+                    "Coordinate vendors (decoration, sound, lighting, filming, photography...).",
+                    "Guide bridesmaids, groomsmen, both families.",
+                    "Control program progress, handle arising incidents.",
+                    "Focus on 1-2 months before wedding day."
+                ]
+            },
+            "forCouples": {
+                "title": "For Couples Who",
+                "items": [
+                    "Have chosen venue, booked services, designed script.",
+                    "Want to fully enjoy wedding day without worrying about timeline.",
+                    "Have family/friends support but still want expert assurance."
+                ]
+            },
+            "cta": "Choose Plan"
+        }
+    },
+    "closing": {
+        "title": "Create Your Dream Wedding with Our Team",
+        "subtitle": "Accompanying couples on their special day",
+        "cta": "Book Now"
+    },
+    "footer": {
+        "venues": {
+            "title": "Venues",
+            "items": [
+                "Maldives",
+                "India",
+                "Dubai",
+                "Paris"
+            ]
+        },
+        "services": {
+            "title": "Services",
+            "items": [
+                "Photographers",
+                "Decorations",
+                "Designers",
+                "Makeup Artists"
+            ]
+        },
+        "support": {
+            "title": "Support",
+            "items": [
+                "About Us",
+                "Careers",
+                "Contact Us",
+                "Terms & Conditions"
+            ]
+        },
+        "copyright": "© 2023 Ellie Wedding Planner. All Rights Reserved."
+    },
+    "contact": {
+        "title": "Let's Plan Your Perfect Wedding Day",
+        "subtitle": "Ready to start planning? Contact us for a free consultation. We'd love to hear your ideas and help you turn them into reality.",
+        "phone": {
+            "label": "Phone",
+            "value": "(+84) 555 123 456"
+        },
+        "email": {
+            "label": "Email",
+            "value": "hello@elliewedding.com"
+        },
+        "consultation": {
+            "label": "Consultation",
+            "value": "By appointment only"
+        },
+        "form": {
+            "name": {
+                "label": "Your Name",
+                "placeholder": "e.g., Sarah & Michael"
+            },
+            "email": {
+                "label": "Email",
+                "placeholder": "hello@example.com"
+            },
+            "phone": {
+                "label": "Phone Number",
+                "placeholder": "Enter your phone number"
+            },
+            "weddingDate": {
+                "label": "Expected Wedding Date",
+                "placeholder": "dd/mm/yyyy"
+            },
+            "guestCount": {
+                "label": "Guest Count",
+                "placeholder": "e.g., 100"
+            },
+            "venueType": {
+                "label": "Indoor or Outdoor?",
+                "placeholder": "Choose venue type",
+                "indoor": "Indoor",
+                "outdoor": "Outdoor"
+            },
+            "budget": {
+                "label": "Expected Budget",
+                "placeholder": "e.g., $10,000 - $15,000"
+            },
+            "hasVenue": {
+                "label": "Do you have a venue? Provide venue details if available",
+                "placeholder": "Enter venue name and address if you have one..."
+            },
+            "weddingVision": {
+                "label": "Share Your Wedding Vision",
+                "placeholder": "Tell us about your dream wedding..."
+            },
+            "submit": "Send Message"
+        }
+    }
+}

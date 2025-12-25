@@ -1,0 +1,218 @@
+{
+    "header": {
+        "logo": "Ellie Wedding",
+        "nav": {
+            "services": "Dịch Vụ",
+            "stories": "Love Stories",
+            "packages": "Packages"
+        },
+        "contact": "Liên Hệ"
+    },
+    "hero": {
+        "title": "Biến Ngày Trọng Đại Của Bạn Thành Sự Hoàn Hảo",
+        "subtitle": "Đảm bảo mọi chi tiết trong đám cưới cổ tích của bạn đều hoàn hảo.",
+        "cta": "Đặt Lịch Ngay"
+    },
+    "intro": {
+        "title": "Đảm bảo mọi chi tiết trong đám cưới cổ tích của bạn đều hoàn hảo.",
+        "paragraph1": "Elite Wedding Planner là đơn vị chuyên thiết kế, lập kế hoạch và tổ chức đám cưới trọn gói. Chúng tôi là lựa chọn đáng tin cậy của những cặp đôi bận rộn mong muốn có một đội ngũ chuyên nghiệp thay mình quản lý toàn bộ quy trình.",
+        "paragraph2": "Với cam kết tôn trọng ý kiến khách hàng, tối ưu ngân sách và đảm bảo chất lượng dịch vụ chất lượng, Elite đồng hành cùng bạn để tạo nên một lễ cưới hoàn hảo, trọn vẹn và mang đậm dấu ấn cá nhân.",
+        "cta": "Đặt Lịch Ngay"
+    },
+    "team": {
+        "title": "Gặp gỡ đội ngũ Ellie",
+        "subtitle": "Đơn vị tổ chức tiệc cưới hàng đầu",
+        "description1": "Chúng tôi cung cấp dịch vụ tổ chức tiệc cưới cao cấp.",
+        "description2": "Ellie chuyên tạo nên những đám cưới đẹp, đáng nhớ, phản ánh phong cách và cá tính riêng của bạn. Hãy để chúng tôi biến giấc mơ cưới của bạn thành hiện thực.",
+        "cta": "Liên Hệ"
+    },
+    "services": {
+        "title": "Dịch Vụ Của Chúng Tôi",
+        "items": [
+            {
+                "title": "Photographers",
+                "subtitle": "Tìm phong cách của bạn"
+            },
+            {
+                "title": "Planning",
+                "subtitle": "Chi tiết hoàn hảo"
+            },
+            {
+                "title": "Decorations",
+                "subtitle": "Trang trí địa điểm"
+            }
+        ],
+        "cta": "Đặt Lịch Ngay"
+    },
+    "testimonials": {
+        "title": "Love Stories",
+        "subtitle": "Lắng nghe từ những cặp đôi đã tin tưởng chúng tôi",
+        "items": [
+            {
+                "names": "Sarah & James",
+                "content": "\"Working with Ellie Wedding Planner was the best decision we made. They transformed our vision into reality and handled every detail flawlessly.\""
+            },
+            {
+                "names": "Rosie & Ravi",
+                "content": "\"Chị cảm ơn team đã hỗ trợ dâu rể rất nhiệt tình. Chị rất may mắn gặp được bọn em. Buổi tiệc diễn ra suôn sẻ và đâu cũng được chăm sóc rất tốt.\""
+            },
+            {
+                "names": "A-Chau & Bradley",
+                "content": "\"We just did it quickly on the plane now actually - we sent a bit more than what you asked - the rest is for you girls as a little extra to say thank you so much for the support. We had an amazing wedding thank to you girls 🥰🥰 we hope you continue to support more couples on their special day!!\""
+            }
+        ]
+    },
+    "packages": {
+        "title": "Wedding Packages",
+        "full": {
+            "name": "Trọn gói tiệc cưới",
+            "description": "Dành cho cặp đôi muốn được đồng hành từ A-Z.",
+            "beforeWedding": {
+                "title": "Trước ngày cưới",
+                "items": [
+                    "Tư vấn, lên kế hoạch chi tiết về phong cách trang trí, chương trình phù hợp ngân sách.",
+                    "Cùng cặp đôi khảo sát địa điểm tổ chức.",
+                    "Lên kịch bản chi tiết cho chương trình.",
+                    "Điều phối thời gian giao nhận của các nhà cung cấp.",
+                    "Thiết kế, in ấn thiệp mời và các chi tiết trang trí cần thiết."
+                ]
+            },
+            "onWeddingDay": {
+                "title": "Trong ngày cưới",
+                "items": [
+                    "Làm việc trực tiếp với nhà hàng, khách sạn.",
+                    "Đón khách, hướng dẫn theo yêu cầu gia đình.",
+                    "Giám sát âm thanh, ánh sáng, timeline chương trình.",
+                    "Điều phối MC, ban nhạc, make up, trang trí...",
+                    "Làm việc với ekip quay phim, chụp ảnh và lo hậu cần.",
+                    "Xử lý linh hoạt mọi vấn đề phát sinh."
+                ]
+            },
+            "afterWedding": {
+                "title": "Sau ngày cưới",
+                "items": [
+                    "Làm việc với ekip quay phim, chụp ảnh cho các bản dựng cuối.",
+                    "Hỗ trợ giải quyết các vấn đề phát sinh (nếu có).",
+                    "Nghiệm thu và thanh toán các khoản còn lại với nhà cung cấp."
+                ]
+            },
+            "cta": "Chọn Gói"
+        },
+        "coordination": {
+            "name": "Gói điều phối",
+            "description": "Phù hợp với cặp đôi đã tự lên kế hoạch chi tiết.",
+            "scope": {
+                "title": "Phạm vi công việc",
+                "items": [
+                    "Tiếp nhận toàn bộ kế hoạch của cô dâu chú rể và ra soát.",
+                    "Lập timeline chi tiết cho ngày cưới.",
+                    "Điều phối các nhà cung cấp (trang trí, âm thanh, ánh sáng, quay phim, chụp ảnh...).",
+                    "Hướng dẫn phù dâu, phù rể, gia đình hai bên.",
+                    "Kiểm soát tiến độ chương trình, xử lý sự cố phát sinh.",
+                    "Tập trung vào giai đoạn 1-2 tháng trước ngày cưới."
+                ]
+            },
+            "forCouples": {
+                "title": "Dành cho cặp đôi",
+                "items": [
+                    "Đã tự chọn địa điểm, đặt dịch vụ, thiết kế kịch bản.",
+                    "Muốn tận hưởng ngày cưới trọn vẹn, không lo timeline.",
+                    "Có người thân/bạn bè hỗ trợ nhưng vẫn muốn chuyên gia đảm bảo."
+                ]
+            },
+            "cta": "Chọn Gói"
+        }
+    },
+    "closing": {
+        "title": "Thực hiện Đám cưới trong mơ với Đội ngũ của chúng tôi",
+        "subtitle": "Đồng hành với cặp đôi trong ngày trọng đại",
+        "cta": "Đặt Lịch Ngay"
+    },
+    "footer": {
+        "venues": {
+            "title": "Địa Điểm",
+            "items": [
+                "Maldives",
+                "Ấn Độ",
+                "Dubai",
+                "Paris"
+            ]
+        },
+        "services": {
+            "title": "Dịch Vụ",
+            "items": [
+                "Nhiếp ảnh gia",
+                "Trang trí",
+                "Thiết kế",
+                "Trang điểm"
+            ]
+        },
+        "support": {
+            "title": "Hỗ Trợ",
+            "items": [
+                "Về Chúng Tôi",
+                "Tuyển Dụng",
+                "Liên Hệ",
+                "Điều Khoản"
+            ]
+        },
+        "copyright": "© 2023 Ellie Wedding Planner. All Rights Reserved."
+    },
+    "contact": {
+        "title": "Cùng Lên Kế Hoạch Cho Ngày Cưới Hoàn Hảo",
+        "subtitle": "Sẵn sàng bắt đầu lên kế hoạch? Hãy liên hệ với chúng tôi để được tư vấn miễn phí. Chúng tôi rất mong được lắng nghe ý tưởng của bạn và cùng bạn biến những ý tưởng đó thành hiện thực.",
+        "phone": {
+            "label": "Điện thoại",
+            "value": "(+84) 555 123 456"
+        },
+        "email": {
+            "label": "Email",
+            "value": "hello@elliewedding.com"
+        },
+        "consultation": {
+            "label": "Tư vấn",
+            "value": "Chi nhận lịch hẹn trước"
+        },
+        "form": {
+            "name": {
+                "label": "Tên của bạn",
+                "placeholder": "Ví dụ: Sarah & Michael"
+            },
+            "email": {
+                "label": "Email",
+                "placeholder": "hello@example.com"
+            },
+            "phone": {
+                "label": "Số điện thoại",
+                "placeholder": "Nhập số điện thoại của bạn"
+            },
+            "weddingDate": {
+                "label": "Ngày cưới dự kiến",
+                "placeholder": "dd/mm/yyyy"
+            },
+            "guestCount": {
+                "label": "Số lượng khách",
+                "placeholder": "Ví dụ: 100"
+            },
+            "venueType": {
+                "label": "Indoor hay outdoor?",
+                "placeholder": "Chọn loại địa điểm",
+                "indoor": "Indoor",
+                "outdoor": "Outdoor"
+            },
+            "budget": {
+                "label": "Ngân sách dự kiến",
+                "placeholder": "Ví dụ: $10,000 - $15,000"
+            },
+            "hasVenue": {
+                "label": "Bạn đã có địa điểm chưa? Cung cấp địa điểm nếu có",
+                "placeholder": "Nhập tên và địa chỉ địa điểm nếu bạn đã có..."
+            },
+            "weddingVision": {
+                "label": "Chia sẻ ý tưởng đám cưới của bạn",
+                "placeholder": "Hãy kể cho chúng tôi về ý tưởng đám cưới trong mơ của bạn..."
+            },
+            "submit": "Gửi lời nhắn"
+        }
+    }
+}
